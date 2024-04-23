@@ -34,6 +34,7 @@ As the device reconnects to the network, `airodump` captures the WPA handshake b
 
 ## Hashcat Password Crack
 Convert the captured file for use with `hashcat` and execute a dictionary attack using the 'rockyou' wordlist along with a rule list 'best64'. Weak or previously breached passwords will be cracked, and their associated hash will be revealed.
+
 ![Screenshot: Hashcat Password Crack 1](https://github.com/moeramadan/Network-Intrusion/assets/155490852/a5b003fb-d3ea-4944-9fc5-b95177c46991)
 ![Screenshot: Hashcat Password Crack 2](https://i.ibb.co/k8nmGkt/chrome-V4rl-OBW2f-Q.png)
 
